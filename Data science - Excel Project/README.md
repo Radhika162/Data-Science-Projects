@@ -201,20 +201,4 @@ beginner.(set criteria by yourself)
 9. Repeat all these tasks (1 to 8) with respect to distinct dates (for example find out
 unique dates instead of unique id and calculate number of users on that date).
 10. Use this filtered data to create charts and graphs for better visualization.
-## Evaluation Rubrics
-- Correctness of outputs according to given criteria
-- Clear definition of criteria
-- Quality of visualization and dashboard
 
-## Instructions for Evaluation
-1. Define criteria for each scenario.
-2. Analyze data to find potential customers.
-3. Create visualizations and dashboard as per rubrics.
-
-## Evaluation Breakdown
-- Q1, Q2, Q3: 20 marks each (Output correctness, Criteria definition, Visualization)
-- Q4: 40 marks (Correct outputs for each task)
-- Q9: Marks based on dashboard quality (0-4)
-
-## Note
-Clearly mention and explain any self-defined criteria. Marks will be given based on specified criteria if acceptable.
