@@ -174,14 +174,16 @@ There is no one specific group of people who are most likely to buy their apps. 
 people may use these apps to track their sleep patterns, while others may use them to
 set alarms or to get tips for improving their sleep quality. Some common groups of people
 who might use sleep schedule apps include:
-1. People who work irregular shifts or have jet lag
-2. People who are trying to establish a regular sleep schedule
-3. People who are trying to improve their sleep hygiene
-4. People who are trying to improve their overall health and wellness
+ 1. People who work irregular shifts or have jet lag
+ 2. People who are trying to establish a regular sleep schedule
+ 3. People who are trying to improve their sleep hygiene
+ 4. People who are trying to improve their overall health and wellness
+    
 Try to find the customers who are likely to buy their subscription, you are given the fit-bit
 fitness tracker data, analyze the data and find some potential customers for
 sleepy-nights.
-4. At last WeFit wants its Analytic team to create a dashboard out of this data to present it in
+
+At last WeFit wants its Analytic team to create a dashboard out of this data to present it in
 front of their management team.
 To do that we will only take the daily activity data and try to create a few charts and
 graphs out of it.
