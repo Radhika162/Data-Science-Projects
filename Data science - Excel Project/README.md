@@ -32,7 +32,7 @@ WeFit became a unicorn company, achieving a valuation of over $1 billion. Rohit 
 thrilled to have built such a successful business, and they remained committed to their original
 vision of creating a welcoming and supportive environment for all. They continued to innovate
 and expand the company, always striving to help their customers achieve their fitness goals and
-lead healthier, happier lives
+lead healthier, happier lives.
 
 ## Business Task
 Use the Fitbit fitness tracker data to determine some smart device usage trends, how customers
@@ -153,12 +153,12 @@ Sleep deprivation is a condition that occurs when you do not get enough sleep or
 poor quality sleep. It can have serious consequences for your physical and mental health,
 as well as your daily functioning.
 Some common symptoms of sleep deprivation include:
-1. Excessive sleepiness and fatigue during the day
-2. Difficulty concentrating and paying attention
-3. Mood changes, such as irritability or depression
-4. Difficulty remembering things
-5. Decreased ability to perform tasks that require alertness, such as driving or
-operating machinery
+    1. Excessive sleepiness and fatigue during the day.
+    2. Difficulty concentrating and paying attention.
+    3. Mood changes, such as irritability or depression.
+    4. Difficulty remembering things.
+     5. Decreased ability to perform tasks that require alertness, such as driving or
+        operating machinery.
 Sleep deprivation can have a number of causes, including irregular sleep schedules,
 stress, and certain medical conditions.Spending more time in bed but getting less amount
 of sleep due to other unimportant works is also a reason to cause sleep deprivation.
