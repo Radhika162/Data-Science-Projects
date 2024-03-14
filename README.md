@@ -19,13 +19,13 @@ Welcome to the Data science Repository.This repository showcases a series of eng
 
 ## Technical Skills Utilized
 
-### - MS Excel
+###  MS Excel
 - Utilize Excel for data analysis, visualization, and basic statistical calculations, leveraging its powerful features for exploratory data analysis.
 
-### - Tableau
+###  Tableau
 - Master Tableau for creating interactive and visually appealing dashboards and reports, showcasing insights derived from data analysis.
 
-### - SQL
+###  SQL
 - Develop proficiency in SQL for querying databases, performing data manipulation tasks, and extracting insights through data analysis.
 
 
