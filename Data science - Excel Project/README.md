@@ -159,6 +159,7 @@ Some common symptoms of sleep deprivation include:
     4. Difficulty remembering things.
      5. Decreased ability to perform tasks that require alertness, such as driving or
         operating machinery.
+   
 Sleep deprivation can have a number of causes, including irregular sleep schedules,
 stress, and certain medical conditions.Spending more time in bed but getting less amount
 of sleep due to other unimportant works is also a reason to cause sleep deprivation.
