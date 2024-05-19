@@ -94,4 +94,39 @@ After adding Economical bowlers into your team you need to find some wicket taki
 4. Role in building a strong team: Wicket-taking bowlers are also an important part of building a strong team in the IPL, as they provide the team with a valuable wicket-taking option and help to balance the team's attack. In order to be successful in the IPL, teams need to have a good mix of bowlers who can take wickets, as well as bowlers who can maintain a good level of control and restrict the opposition's scoring. Wicket-taking bowlers are an important part of this mix, as they provide the team with a wicket-taking option that can be used to put pressure on the opposition and disrupt their batting lineup.
 ##### Now you need to get 2-3 bowlers with the best strike rate and who have bowled at least 500 balls in IPL so far.To do that you have to make a list of 10 players you want to bid in the auction so that when you try to grab them in auction you should not pay the amount greater than you have in the purse for a particular player.
 (strike rate of a bowler can be calculated by number of balls bowled divided by total wickets taken )
-###
+### All-Rounders 
+After getting the best bowlers and batters you need few all rounders in your team. In T20 cricket, all-rounders are players who are skilled at both batting and bowling. They are valuable to a team because they provide flexibility to the lineup and can contribute in multiple ways. 
+
+One of the main ways that all-rounders can contribute in T20 cricket is by scoring runs quickly and effectively. In T20 cricket, teams often need to score runs at a fast pace, and all-rounders who can hit the ball hard and rotate the strike are valuable assets. They can also provide a steadying influence if the team is under pressure, as they have the experience and skills to build an innings. 
+
+All-rounders are also valuable because they can bowl effectively in different situations. In T20 cricket, teams often have to make quick adjustments to their game plan, and all-rounders who can bowl a variety of deliveries and execute their skills under pressure can be very useful. They can bowl in the powerplay, in the middle overs, or at the death, and they can be used to exploit the opposition's weaknesses or contain the scoring.
+
+All-rounders can also provide insurance for a team in case of injuries or poor form by other players. For example, if a team's main fast bowler is injured, an all-rounder who can bowl at pace can help fill the void. Similarly, if a team's top order batsmen are struggling, an all-rounder who can score runs and provide stability to the innings can be valuable. 
+
+Overall, all-rounders are valuable in T20 cricket because they provide teams with versatility and options, and they can be key contributors to a team's success in the format. 
+##### Now you need to get 2-3 All_rounders with the best batting as well as bowling strike rate and who have faced at least 500 balls in IPL so far and have bowled minimum 300 balls.To do that you have to make a list of 10 players you want to bid in the auction so that when you try to grab them in auction you should not pay the amount greater than you have in the purse for a particular player. 
+( strike rate of an all rounder can be calculated using the same criteria of batsman similarly the bowling strike rate can be calculated using the criteria of a bowler)
+### Wicketkeeper
+Now, after adding all these players, this team is still incomplete because we don’t have any wicketkeeper. In T20 cricket, the role of the wicketkeeper is slightly different from that in longer forms of the game. In T20, the emphasis is on scoring runs quickly, so the wicketkeeper is often expected to contribute to the team's run total with aggressive batting. They may also be called upon to bowl a few overs of spin or medium pace. 
+
+Defensively, the wicketkeeper still has an important role to play, as they are responsible for catching and stumping the batsman. In T20 cricket, where every run and wicket is crucial, a good wicket keeper can make a big difference to the team's chances of winning.
+
+Overall, the wicketkeeper is an important member of a T20 team and can have a significant impact on the outcome of a match. Now suppose you are provided with a list of wicketkeeper names, and your task is to define the criteria for choosing the two best wicket keepers from all those names.Try to define a criteria best suited for a wicketkeeper required in a t20 team so that your team will be complete and have everything required for winning this year’s IPL. 
+##### After doing all that you have the list of all the players you are going to bid in the auction so create a visual representation in the form of graphs , tables and charts to present in front of team management before the auction.
+
+### Additional Questions for Final Assessment
+NOTE:-Deliveries is the table created using the IPL_Ball data whereas the Matches table has been created using the IPL_Matches data
+1. Get the count of cities that have hosted an IPL match
+2. Create table deliveries_v02 with all the columns of the table ‘deliveries’ and an additional column ball_result containing values boundary, dot or other depending on the total_run (boundary for >= 4, dot for 0 and other for any other number)
+(Hint 1 : CASE WHEN statement is used to get condition based results)
+(Hint 2: To convert the output data of the select statement into a table, you can use a subquery. Create table table_name as [entire select statement].
+3. Write a query to fetch the total number of boundaries and dot balls from thedeliveries_v02 table.
+4. Write a query to fetch the total number of boundaries scored by each team from the deliveries_v02 table and order it in descending order of the number of boundaries scored.
+5. Write a query to fetch the total number of dot balls bowled by each team and order it in descending order of the total number of dot balls bowled.
+6. Write a query to fetch the total number of dismissals by dismissal kinds where dismissal kind is not NA
+7. Write a query to get the top 5 bowlers who conceded maximum extra runs from the deliveries table
+8. Write a query to create a table named deliveries_v03 with all the columns of deliveries_v02 table and two additional column (named venue and match_date) of venue and date from table matches
+9. Write a query to fetch the total runs scored for each venue and order it in the descending order of total runs scored.
+10. Write a query to fetch the year-wise total runs scored at Eden Gardens and order it in the descending order of total runs scored.
+
+
