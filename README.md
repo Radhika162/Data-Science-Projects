@@ -13,25 +13,25 @@ Welcome to the Data science Repository.This repository showcases a series of eng
 ### 3. Data Wrangling
 - Mastered the art of data wrangling, including data cleaning, transformation, and manipulation to prepare raw data for analysis.
 
-###  SQL
+### 4. SQL
 - Develop proficiency in SQL for querying databases, performing data manipulation tasks, and extracting insights through data analysis.
   
-### Database Management System (DBMS)
+### 5. Database Management System (DBMS)
 - Acquired knowledge in Database Management Systems (DBMS), understanding the principles of database design, implementation, and maintenance. Gained skills in managing and optimizing database performance, ensuring data integrity, and executing complex queries.
 
-###  Tableau
+### 6. Tableau
 - Master Tableau for creating interactive and visually appealing dashboards and reports, showcasing insights derived from data analysis.
 
-### 5. Data Visualization
+### 7. Data Visualization
 - Developed skills in data visualization techniques to create compelling visual representations of data, facilitating easier interpretation and communication of insights.
   
-### python
+### 8. python
 -Developed proficiency in Python programming, focusing on its application in data analysis, automation, and scripting. Learned to write efficient, readable code for various data science tasks and integrated Python with other tools and libraries.
 
-### 6. Machine learning with python
+### 9. Machine learning with python
 - Gained expertise in machine learning with Python, including both regression and classification techniques. Learned to build, train, and evaluate models to predict outcomes and classify data, leveraging libraries such as scikit-learn.
 
-### Statistical Modelling
+### 10. Statistical Modelling
 -Learned the fundamentals of statistical modeling, including hypothesis testing, regression analysis, and predictive modeling. Applied statistical techniques to analyze data, identify relationships, and make data-driven predictions.
 
 
