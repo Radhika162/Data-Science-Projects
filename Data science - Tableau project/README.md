@@ -52,4 +52,7 @@ Below are some visualizations that you have to add to the dashboard. The five vi
 ● You can add other information to the dashboard to show your creativity, you can also create a story instead of dashboard.
 
 Remember to keep the dashboard user-friendly and easy to navigate, so that Chris can quickly and easily access the information he needs.The dashboard/story should be created in A4 portrait size and should be saved in a pdf format only. Good luck with the project!
-###
+
+
+### Final Task: 
+After creating your dashboard, it is necessary to record a video demonstrating its interactivity and functionality of the created filters. This video will showcase how the dashboard responds to user actions and provide insight into the effectiveness of the filters(refer this document to know more about how to record this video). The recorded video can be shared by either uploading it to your Google Drive and sharing the link or by uploading it to your YouTube channel and sharing the link. This ensures that the video is easily accessible to the intended audience and can be viewed at their convenience.You also have to upload the pdf file to your drive and then copy both the links into one word/ pdf file and share that word/pdf file (Must be having links of both dashboard and video) with us.
