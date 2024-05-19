@@ -1,4 +1,4 @@
-## Machine learning project - Classificatgion
+## Machine learning project - Classification
 ### Problem Statement: 
 Create a Machine Learning model using various Classification Models to predict rainfall.
 ### Description:
